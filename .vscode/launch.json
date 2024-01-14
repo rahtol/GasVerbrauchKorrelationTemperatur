@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+
+        {
+            "name": "Python: test0",
+            "type": "python",
+            "request": "launch",
+            "program": "test0.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+
+        {
+            "name": "Python: test1",
+            "type": "python",
+            "request": "launch",
+            "program": "test1.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+
+        {
+            "name": "Python: Generate GasverbrauchKorrelationTemperatur.xls",
+            "type": "python",
+            "request": "launch",
+            "program": "extend_xls_by_temperature2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+
+    ]
+}
