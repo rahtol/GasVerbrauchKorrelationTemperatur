@@ -41,5 +41,14 @@
             "justMyCode": true
         },
 
+        {
+            "name": "Python: Auswertung interaktiv",
+            "type": "python",
+            "request": "launch",
+            "program": "auswertung-2.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+
     ]
 }
